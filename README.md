@@ -10,4 +10,4 @@ This a machine translation system which uses Transformer model in its core.
 
 ## Status
 
-- Model completed
+- Transformr Model completed
